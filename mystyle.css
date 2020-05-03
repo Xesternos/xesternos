@@ -32,7 +32,11 @@ body {
 }
 
 .aspra_grammata {
-  background-color: #51545c;
   color: white;
   font-size: 18
+  background-color: lightgrey;
+  width: 300px;
+  border: 4px solid green;
+  padding: 50px;
+  margin: 20px;
 }
